@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ElegantLaTeX</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://elegantlatex.org/"/>
+  <updated>2019-01-15T01:45:54.784Z</updated>
+  <id>https://elegantlatex.org/</id>
+  
+  <author>
+    <name>the ElegantLaTeX team</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello the ElegantLaTeX Team!</title>
+    <link href="https://elegantlatex.org/2017/10/31/Hello-the-ElegantLaTeX-Team/"/>
+    <id>https://elegantlatex.org/2017/10/31/Hello-the-ElegantLaTeX-Team/</id>
+    <published>2017-10-31T08:03:20.000Z</published>
+    <updated>2019-01-15T01:45:54.784Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好，ElegantLaTeX 团队！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好，ElegantLaTeX 团队！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="MISC" scheme="https://elegantlatex.org/categories/MISC/"/>
+    
+    
+      <category term="MISC" scheme="https://elegantlatex.org/tags/MISC/"/>
+    
+  </entry>
+  
+</feed>

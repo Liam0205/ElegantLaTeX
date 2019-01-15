@@ -1,1 +1,0 @@
-# ElegantLaTeX.github.io
